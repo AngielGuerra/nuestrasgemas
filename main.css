@@ -1,0 +1,35 @@
+hr {
+	width: 100px;
+	border: 1px solid black;
+	position: absolute;
+	left: 10px;
+	bottom: 570px;
+}
+
+.contenedor{
+	background-color: white;
+	margin:0;
+	position: relative;
+	width: 750px;
+}
+.imagenes{
+	width: 150px;
+	height: 220px;
+	margin: 30px;
+	display: inline-block;
+
+}
+.gema{
+	display: inline-block;
+	position: relative;
+}
+
+p {
+	position: absolute;
+	display: inline-block;
+	color: white;
+	background-color: black;
+	top: 200px;
+	left: 160px;
+
+}
